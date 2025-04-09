@@ -14,7 +14,7 @@ EXIT
 color 6
 cls
 echo:
-echo KJZ Free Windows Activation Tool
+echo Lutheranismiscool's Free Windows Activation Tool
 echo Use at your OWN RISK!
 echo: 
 echo SELECT WINDOWS VERSION (CHECK BY TYPING WINVER IN RUN (WIN+R) OR CMD)
